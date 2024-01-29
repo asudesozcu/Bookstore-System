@@ -1,0 +1,6 @@
+Order Number: 9873
+Order Date: Thu Jan 04 17:57:01 TRT 2024
+Total Price: 44.98
+Book: Harry Potter, Price: 14.99
+Book: İnce Mehmed, Price: 29.99
+---------------------

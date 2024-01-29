@@ -1,0 +1,10 @@
+Name, ISBN, Type, Author, Price, Stock
+İnce Mehmed, 123456789, NOVEL, Yakup Kadri Karaosmanoğlu, 29,99, 150
+Sineklerin Tanrısı, 987654321, SCIENCE_FICTION, William Golding, 19,99, 150
+Kuyucaklı Yusuf, 456789123, NOVEL, Sabahattin Ali, 24,99, 120
+Kürk Mantolu Madonna, 789123456, NOVEL, Sabahattin Ali, 39,99, 80
+Harry Potter, 321654987, SCIENCE_FICTION, J.K Rowling, 14,99, 200
+Saatleri Ayarlama Enstitüsü, 654987321, NOVEL, Ahmet Hamdi Tanpınar, 34,99, 90
+Beyaz Gemi, 159753468, OTHER, Cengiz Aytmatov, 22,99, 110
+İstanbul Hatırası, 147258369, BIOGRAPHY, Ahmet Ümit, 17,99, 130
+Şeker Portakalı, 258369147, NOVEL, José Mauro de Vasconcelos, 19,99, 110

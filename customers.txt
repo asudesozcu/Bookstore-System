@@ -1,0 +1,7 @@
+
+Username, ID, Name, Surname, Email ,Phone ,Password ,Address ,Gender ,Agejohn_doe, 1221, John, Doe, john.doe@example.com,123456789,password123,123 Main St,MALE, 25
+------------------
+Username, ID, Name, Surname, Email ,Phone ,Password ,Address ,Gender ,Agealice_smith, 321, Alice, Smith, alice.smith@example.com,987654321,password456,456 Oak St,FEMALE, 30
+------------------
+Username, ID, Name, Surname, Email ,Phone ,Password ,Address ,Gender ,Agebob_jones, 4321, Bob, Jones, bob.jones@example.com,111223344,password789,789 Elm St,MALE, 22
+------------------
